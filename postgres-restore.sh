@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash PostgrSQL 12 Supported 
 exec > /var/lib/pgsql/nissan_configuration-$(date +%d-%m-%Y).log
 echo "go to postgres default location"
 cd /var/lib/pgsql/
